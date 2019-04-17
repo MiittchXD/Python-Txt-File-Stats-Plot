@@ -46,16 +46,11 @@ my_count = {}
 
 # Collects the stats for the letters and digits in the string 
 for elem in nums_and_letters:
-    if elem.isdigit():
-        if elem in my_count:
-            my_count[elem] += 1
-        else:
-            my_count[elem] = 1
-    elif elem.isalpha():
-        if elem in my_count:
-            my_count[elem] += 1
-        else:
-            my_count[elem] = 1
+    if elem in my_count:
+        my_count[elem] += 1
+    else:
+        my_count[elem] = 1
+
 
 # Stores the character as the key in a dict, and the frequency as the value 
 sorted_my_count = {}
