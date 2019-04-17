@@ -1,0 +1,160 @@
+CIS 298, Section 1, Winter 2019 - 3 Credit hours
+
+Prof. Robert Mann
+Office Location: FCN 98N
+E-Mail: rcmann@umich.edu 
+Phone: (313) 436-9145 (CIS department)
+Office Hours:	 Monday, Tuesday, and Thursday 9 AM – 11 AM or
+		 by appointment
+
+Course Meeting Times: 
+T/R 2 - 3:15 PM, NSB 152
+
+Pre-requisites: Undergraduate level CIS 200 or IMSE 200, either with passing grade, or equivalent.
+
+Course Description:
+An introduction to the Python programming language and its various libraries, packages, and toolkits. The focus of this course will be on the development of analytics/data science applications.
+
+Program Goals:
+BS in Data Science: click here.
+
+Course Objectives
+•	Students will gain an ability to write small programs in a modern programming language
+•	Students will learn to use Python packages and toolkits
+•	Students will learn to develop analytic/data science applications
+
+Required Materials and/or Technology:
+•	REQUIRED: zybooks -Introduction to Python: https://www.zybooks.com/ - Class code:  
+o	Sign in or create an account at learn.zyBooks.com -Use your @umich.edu email
+o	Enter zyBook code UMDEARBORNCIS298MannWinter2019 - $58 for semester, through May 13, 2019
+
+University Attendance Policy
+A student is expected to attend every class and laboratory for which he or she has registered. Each instructor may make known to the student his or her policy with respect to absences in the course. It is the student’s responsibility to be aware of this policy. The instructor makes the final decision to excuse or not to excuse an absence. An instructor is entitled to give a failing grade (E) for excessive absences or an Unofficial Drop (UE) for a student who stops attending class at some point during the semester.
+
+Academic Integrity
+The University of Michigan-Dearborn values academic honesty and integrity.  Each student has a responsibility to understand, accept, and comply with the University’s standards of academic conduct as set forth by the Code of Academic Conduct (http://www.umd.umich.edu/policies_st-rights/), as well as policies established by each college. Cheating, collusion, misconduct, fabrication, and plagiarism are considered serious offenses, and may be monitored using tools including but not limited to TurnItIn. Violations can result in penalties up to and including expulsion from the University. At the instructor’s discretion, the penalty may be a grade of zero on the assignment up to and including recommending that the student be expelled from the University. It is the sole responsibility of the student to understand and follow academic guidelines regarding plagiarism. The University of Michigan–Dearborn has an online academic integrity tutorial that can be accessed at http://webapps.umd.umich.edu/aim.  
+Although students are encouraged to help their classmates, students sharing code are guilty of plagiarism. If programs are considered too similar, the students will be asked to explain. The Dean will be notified about any such offenses as well as the Academic Code of Conduct Committee.  In all cases of cheating, students who supply code or take it will both be penalized. The penalty for all students involved in cheating is failure in the class.
+
+Disability Statement
+The University will make reasonable accommodations for persons with documented disabilities. Students need to register with Disability Resource Services (DRS) every semester they are enrolled for classes. DRS is located in Counseling & Support Services, 2157 UC.  To be assured of having services when they are needed, students should register no later than the end of the add/drop deadline of each term.  Visit the DRS website at: http://www.umd.umich.edu/cs_disability/. If you have a disability that necessitates an accommodation or adjustment to the academic requirements stated in this syllabus, you must register with DRS as described above and notify your professor.  Upon receipt of your written notification, we will make accommodations as directed by DRS.
+
+Safety
+All students are strongly encouraged to register in the campus Emergency Alert System, used to communicate with the campus community during an emergency. More information on the system and how it works, along with enrollment information can be found at: http://umemergencyalert.umd.umich.edu/ Please note that the system will only communicate through UM-Dearborn email accounts,  so if you primarily use a non-university account you should forward your UM-Dearborn email to your primary account.
+All students are also encouraged to program 911 and UM-Dearborn’s Public Safety phone number (313) 593-5333 into personal cell phones. In case of emergency, first dial 911 and then if the situation allows call UM-Dearborn Public Safety.
+
+
+Canvas:  
+
+A course website has been created in Canvas (the online course management system).  You are automatically granted access to this site as a result of your enrollment in the course.  To access the site, you need to go to http://canvas.umd.umich.edu/, and login using your uniquename and Kerberos password.    If you do not know your uniquename and/or Kerberos password you can contact Information Technology Services (http://umdearborn.edu/its/).
+
+
+Quizzes:
+Quizzes will be used to reinforce concepts, check student comprehension, and instigate discussion.  There will be two in-class quizzes.
+
+Homework:
+•	zyBooks chapters
+
+Grading Distribution:
+Projects (4, 10% ea.)								40%
+Quizzes (2, 7 & 9%)								16%
+zyBooks chapters (14, 1% ea.)							14%
+Exams (Midterm 13% and Final 17%)						30%
+Total	100%
+
+
+Grading Scale:   
+92.5% - 100%		A 89.5% - 92.4%		A-86.5% - 89.4%		B+
+82.5% - 86.4%		B
+79.5% - 82.4%		B-76.5% - 79.4%		C+
+72.5% - 76.4%		C
+69.5% - 72.4%		C-
+64.5% - 69.4%		D+
+59.5% - 64.4%		D
+0% - 59.4%		E 
+
+
+Course Policy: 
+The instructor reserves the right to modify policies to improve the execution of this course.
+•	Announcements will be posted on Canvas. Please read your email/canvas regularly for announcements.
+•	You are expected to submit your assignments by the due date/time. Late assignments will decrease their potential points every 24 hours: 10%, 25%, 50%; 0 points after three days late.
+•	Cell phones must be turned off during lectures (silence it). If you are unwilling to turn your phone off, do not bring it to class. If you are observed using your phone during class, you will be asked to leave. It is not permitted to use headphones, ear buds, etc. during lectures. You may use a computer to take notes during lecture. Use of your computer for purposes not directly related to CIS 298 is not permitted (for example, email, watching videos, etc.). If you are observed doing so, you will be asked to leave the class.
+•	If there are mistakes in grading any assignment, please contact me within a week after the return of your work. The entire work will be graded again and the new grade will replace the original one, whether the new grade is higher or lower than the original grade.
+•	A grade of C- or better is required in this course in order to take any future CIS courses.
+ 
+Course Outline (Subject to change): 
+The instructor reserves the right to modify the schedule during the semester.
+Week	Date	Topic	Chapter from zyBooks	Notes
+1	Jan 8
+Jan 10	Introduction to Python 3
+Variables and Expressions	1
+2	
+2	Jan 15
+Jan 17	Types
+practice exercises	3
+2-3	
+
+3	Jan 22
+Jan 24	Branching
+Loops	4
+5	
+4	Jan 29
+Jan 31	practice exercises/review
+Quiz	1-5
+1-5	
+Quiz 1
+5	Feb 5
+Feb 7	Quiz review
+Strings	
+6	
+
+6	Feb 12
+Feb 14	Functions
+practice exercises	7
+6-7	Project 1 assigned
+
+7	Feb 19
+Feb 21	Lists and Dictionaries
+Exceptions	8
+9	
+
+8	Feb 26
+Feb 28	 practice exercises / review
+Midterm	8-9
+1-9	
+Midterm & Proj. 2 assigned
+9	Mar 5
+Mar 7	Spring
+Break		
+10	Mar 12
+Mar 14	Midterm review / Classes
+Classes / Inheritance	10
+10 / 11	
+
+11	Mar 19
+Mar 21	 Practice exercises
+Quiz	10-11
+10-11	
+Quiz 2
+12	Mar 26
+Mar 28	Quiz review
+Files	
+12	Project 3 assigned
+13	Apr 2
+Apr 4	Modules
+Plotting	13
+14	
+Project 4 assigned
+14	Apr 9
+Apr 11	practice exercises
+Searching and Sorting	13-14
+15	
+15	Apr 16
+Apr 18	practice exercises
+Review	15
+1-15	
+	Apr 23	Final Exam (3 – 6 pm)	ALL	Final Exam
+
+Tutoring:
+You are expected to devote 4 to 8 hours per week (outside the classroom) working on the topics covered in this class. Free tutoring is available to students through the following means:
+•	Tutoring services offered by the Student Success Center. For more information about tutoring services, please visit the following link: http://umdearborn.edu/asos_tutoring_services/
+•	UPE is an honor society for the computing fields. UPE members do also provide free tutoring to help their fellow students in computer science courses. For more information, please visit the following link: http://upe.umd.umich.edu/tutoring.php
